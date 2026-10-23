@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Database (generated at runtime)
+*.db
+*.db-shm
+*.db-wal
+
+# Environment secrets
+.env
+
+# Editor
+.vscode/
+*.swp
+.DS_Store
+
+# Pytest cache
+.pytest_cache/
+
+# Legacy
+parsed_tree.json
